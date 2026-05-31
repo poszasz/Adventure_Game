@@ -7,7 +7,7 @@ local player = {
 }
 
 local HealerAbility = {
-    healAllPlayer = 3,
+    healParty = 3,
     healOnePlayer = 5,
     healYourself = 5
 }
